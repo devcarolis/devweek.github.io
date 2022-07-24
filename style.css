@@ -46,7 +46,9 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-align: center
+    text-align: center;
+    font-family: 'Albert Sans', sans-serif;
+    font-weight: bolder;
 }
 
 .profession {
@@ -54,6 +56,7 @@
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
+    font-family: 'Albert Sans', sans-serif;
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
@@ -107,6 +110,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+    font-family: 'Albert Sans', sans-serif;
 }
 
 .experience-contents,
@@ -123,18 +127,21 @@
 .awards-company-name {
     font-size: 25px;
     font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .exp-time-period,
 .educationp-time-period,
 .awards-time-period {
     font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .exp-position,
 .education-subject,
 .awards-name {
     font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .exp-desc,
@@ -142,4 +149,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    font-family: 'Josefin Sans', sans-serif;
 }
